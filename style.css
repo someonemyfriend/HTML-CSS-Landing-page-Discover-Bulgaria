@@ -132,7 +132,7 @@ nav a{
 }
 
 .container-main {
-    margin: 80px 31px;
+    margin: 80px 0px;
 }
 
 .style-h2 {
@@ -202,7 +202,6 @@ main {
 
 .background-shadow span:first-child {
     font-size: 28px;
-    padding-left: 53px;
     padding-top: 10px;
 }
 
@@ -234,9 +233,12 @@ main {
     width: 576px;
     height: 480px;
     border-radius: 16px;
+    background-size: cover;
 }
 
-
+.section-our-platform .div-column-50:first-child {
+    width: 589px;
+}
 
 
 
